@@ -1,0 +1,19 @@
+{
+  "name": "my-ga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-plugin-transform-runtime": "^6.23.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "typescript": "^3.1.6"
+  }
+}

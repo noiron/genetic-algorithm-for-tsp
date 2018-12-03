@@ -1,0 +1,15 @@
+canvas {
+  width: 800px;
+  height: 600px;
+  border: 1px solid #000;
+}
+
+section.buttons {
+  text-align: left;
+}
+
+button {
+  min-width: 80px;
+  min-height: 40px;
+  margin: 20px 10px 15px;
+}
